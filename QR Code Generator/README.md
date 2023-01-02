@@ -14,7 +14,7 @@ This script take a link of any URL and generate a QR code corresponding to it.
 - Execute `python3 QR Code Generator.ipynb`
 
 ### Sample Input
--URL-`https://www.linkedin.com/in/vaibhav-ghorpade-743477154`
+- URL-`https://www.linkedin.com/in/vaibhav-ghorpade-743477154`
 
 ### Screenshot/GIF showing the sample use of the script
 
