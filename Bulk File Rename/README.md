@@ -8,7 +8,7 @@
 ## Library Used
 * `os`
  
-### How to run the script
+## How to run the script
 - Execute `Rename Files.py`
 - Provide your desired path as an input 
 - Give desired name as you want to give to files
@@ -16,7 +16,10 @@
 - And run the code
 -after that all the files of of the 
 
-### Screenshot/GIF showing the sample use of the script
+## Screenshot/GIF showing the sample use of the script
 
-![Before](https://github.com/VaibhavGhorpade1999/Python-Projects/blob/main/Bulk%20File%20Rename/Screenshot%202023-01-02%20224740.png)
-![After](https://github.com/VaibhavGhorpade1999/Python-Projects/blob/main/Bulk%20File%20Rename/Screenshot%202023-01-02%20224.png)
+### Before
+<img width="855" alt="Screenshot 2023-01-02 224740" src="https://user-images.githubusercontent.com/115491376/210268288-e1e6d7a7-0578-46f6-a2e6-65d99d3b0237.png">
+
+### After
+<img width="859" alt="Screenshot 2023-01-02 224906" src="https://user-images.githubusercontent.com/115491376/210268383-61ba94ea-76ad-4679-883b-d786ec3572e7.png">
