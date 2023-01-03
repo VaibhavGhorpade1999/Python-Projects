@@ -29,7 +29,8 @@
 - You can just play with the code and create as many else-if and understand the concepts very easily.
 - You can check the video, for the working of the voice assistant:
 
-```https://user-images.githubusercontent.com/115491376/210334085-da2ffd6e-583e-454a-bb58-de890f850026.mp4```
+
+![screen-capturemp4](https://user-images.githubusercontent.com/115491376/210336282-221df2df-65e0-4c9e-be36-22ab6bd9c300.gif)
 
 
 
