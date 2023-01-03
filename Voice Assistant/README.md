@@ -30,7 +30,7 @@
 - You can check the video, for the working of the voice assistant:
 ```
 
-`[screen-capture.mp4.webm](https://user-images.githubusercontent.com/115491376/210328883-571dcdbe-543b-4fef-9189-b36120e21e9e.webm)`
+ [Recorded Video](https://drive.google.com/file/d/1LuHyAsDoX3aOtW5aJPV7cBXgBq7CfFyL/view?usp=share_link)
 
 
 
