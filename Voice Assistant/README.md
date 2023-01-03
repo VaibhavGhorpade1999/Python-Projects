@@ -29,9 +29,8 @@
 - You can just play with the code and create as many else-if and understand the concepts very easily.
 - You can check the video, for the working of the voice assistant:
 ```
-[screen-capture.mp4.webm](https://user-images.githubusercontent.com/115491376/210328883-571dcdbe-543b-4fef-9189-b36120e21e9e.webm)
 
+`[screen-capture.mp4.webm](https://user-images.githubusercontent.com/115491376/210328883-571dcdbe-543b-4fef-9189-b36120e21e9e.webm)`
 
-https://user-images.githubusercontent.com/115491376/210330503-535f1d8b-ce70-4eba-80bb-7453881d2922.mp4
 
 
