@@ -30,7 +30,6 @@
 - You can check the video, for the working of the voice assistant:
 ```
 
- [Recorded Video](https://drive.google.com/file/d/1LuHyAsDoX3aOtW5aJPV7cBXgBq7CfFyL/view?usp=share_link)
 
 
 
