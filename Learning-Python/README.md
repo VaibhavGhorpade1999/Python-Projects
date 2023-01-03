@@ -1,6 +1,6 @@
 # Learning Python
 
-## Who Is This Book For?
+## Who Is This chapters For?
         
 - The goal of these chapters is to bring you up to speed with python as quickly as possible so you can build programs that works while developing foundation in programming that will serve you for the rest of your life. 
 - Learning Python is written for people of any age who have never programmed in Python before or have never programmed at all.
